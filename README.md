@@ -16,7 +16,7 @@ I live in Bloomfield with my husband, dog, and cat. We love to travel and just g
 
 # Portfolio
 
-# Examples
+## Examples
 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
 
@@ -25,7 +25,7 @@ I live in Bloomfield with my husband, dog, and cat. We love to travel and just g
 ## Final project 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ### Helpful Links:
 
