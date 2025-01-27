@@ -19,6 +19,9 @@ I live in Bloomfield with my husband, dog, and cat. We love to travel and just g
 <iframe title="EU Urban Mobility Readiness" aria-label="Split Bars" id="datawrapper-chart-hdg34" src="https://datawrapper.dwcdn.net/hdg34/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1685" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
+## Government Debt
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/aadefusc-18ed4b3164/views/GovernmentDebt/GovernmentDebt' width='1440' height='772' hide-tabs toolbar='bottom' ></tableau-viz>
+
 ## Examples
 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
