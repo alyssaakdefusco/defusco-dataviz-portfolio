@@ -1,16 +1,17 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+ This project will demonstrate the correlation between arts funding and student success. 95% of Americans believe that there should be more arts in school. However, arts funding doesn't receive the priority it should in order to build robust arts programming in US public schools. Starting in the 200s, the focus on STEM left arts programs without enough allocated funds. Today, we have enough data to show that students who attend schools with well-funded arts and participate in these programs are more likely to perform well in classes and graduate. This project will present data to show this correlation and make the case for more arts funding to our public schools as well as actionable steps for the average American to advocate for arts in their local schools. 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+
+Setup: We know that the arts are good for us. Studies show positive correlations between arts participation and physical, social, and mental health. We also know that 95% of Americans think the arts belong in public schools
+Conflict: Schools don't have enough arts funding to provide arts programs to all students. Other programs are prioritized, leaving the arts by the wayside. Students don't get to reap the benefits of participating in robust arts programs.
+Resolution: More arts funding is possible! Here's how you can contact your local representatives to tell them you want them to support arts funding measurements in Washington. 
+
+(user story graph)
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -20,23 +21,19 @@ Text here...
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|National Arts Ed Status Report| https://artseddata.org/national_report_2019/|A comprehensive report of arts education impacts and statistics          |
+|Education Commission of the States      |https://www.ecs.org/initiatives-projects/state-data-infrastructure-project-for-arts-education/     |State by state comparison of how states use arts funding             |
+|Art for Life's Sake      |chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.amacad.org/sites/default/files/publication/downloads/2021-Art-for-Lifes-Sake.pdf     |Effects of arts access on students             |
+https://ewa.org/how-to-cover-the-story/arts-education-who-has-access-in-public-schools
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+# Method and medium 
 
-Text here...
+I plan to use Tableau to create data visualizations and Shorthand to present the project comprehensively.
 
 ## References
 _List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
