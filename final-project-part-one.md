@@ -32,6 +32,7 @@ Finally, I will create a data visualization to demonstrate the process of state 
 
 
 | Name | URL | Description |
+
 |------|-----|-------------|
 |National Arts Ed Status Report| https://artseddata.org/national_report_2019/|A comprehensive report of arts education impacts and statistics          |
 |Education Commission of the States      |https://www.ecs.org/initiatives-projects/state-data-infrastructure-project-for-arts-education/     |State by state comparison of how states use arts funding             |
