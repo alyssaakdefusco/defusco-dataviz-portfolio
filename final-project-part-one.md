@@ -15,10 +15,10 @@
 
 ## Initial sketches
 User story graph:
-![](NAFMI.jpg "User story from class")
+![](UserStory "User story from class")
 
 Amount of federal public school funding that's allocated to schools: (this visualization is from NafMe, it's confusing and will need to be reworked)
-![](Screenshot 2025-02-04 174909.png "NAfME Viz")
+![](NAFMI.jpg "NAfME Viz")
 
 Example of a graph showing correlation between time spent in arts programs and graduation rate:
 ![](PXL_20250204_194214058.MP.jpg "Sample Benefits of Arts Education Graph")
