@@ -15,7 +15,7 @@
 
 ## Initial sketches
 User story graph:
-![](UserStory "User story from class")
+![](UserStory.png "User story from class")
 
 Amount of federal public school funding that's allocated to schools: (this visualization is from NafMe, it's confusing and will need to be reworked)
 ![](NAFMI.jpg "NAfME Viz")
