@@ -13,7 +13,7 @@ Resolution: More arts funding is possible! Here's how you can contact your local
 
 ## Initial sketches
 User story graph:
-(picture from class)
+![Picture of graph from something](PXL_20250204_194214058.MP.jpg "Title")
 
 Amount of federal public school funding that's allocated to schools: (this visualization is from NafMe, it's confusing and will need to be reworked)
 (screenshot)
