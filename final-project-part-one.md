@@ -7,7 +7,9 @@
 
 
 **_Setup_**: We know that the arts are good for us. Studies show positive correlations between arts participation and physical, social, and mental health. We also know that 95% of Americans think the arts belong in public schools
+
 **_Conflict_**: Schools don't have enough arts funding to provide arts programs to all students. Other programs are prioritized, leaving the arts by the wayside. Students don't get to reap the benefits of participating in robust arts programs.
+
 **_Resolution_**: More arts funding is possible! Here's how you can contact your local representatives to tell them you want them to support arts funding measurements in Washington. 
 
 
