@@ -39,8 +39,10 @@ Finally, I will create a data visualization to demonstrate the process of state 
 | Art for Life's Sake | chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.amacad.org/sites/default/files/publication/downloads/2021-Art-for-Lifes-Sake.pdf | Effects of arts access on students |
 
 
-https://ewa.org/how-to-cover-the-story/arts-education-who-has-access-in-public-schools
-
 # Method and medium 
 
 I plan to use Tableau to create data visualizations and Shorthand to present the project comprehensively.
+
+# References
+
+Krissy. 2023. “Arts Education: Who Has Access in Public Schools?” Ewa.Org. January 3, 2023. https://ewa.org/how-to-cover-the-story/arts-education-who-has-access-in-public-schools.
