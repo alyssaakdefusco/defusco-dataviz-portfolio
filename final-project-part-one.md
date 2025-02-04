@@ -36,7 +36,7 @@ Finally, I will create a data visualization to demonstrate the process of state 
 |------|-----|-------------|
 | National Arts Ed Status Report | https://artseddata.org/national_report_2019/ | A comprehensive report of arts education impacts and statistics |
 | Education Commission of the States | https://www.ecs.org/initiatives-projects/state-data-infrastructure-project-for-arts-education/ | State by state comparison of how states use arts funding |
-| Art for Life's Sake | chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.amacad.org/sites/default/files/publication/downloads/2021-Art-for-Lifes-Sake.pdf | Effects of arts access on students |
+| Art for Life's Sake | https://www.amacad.org/sites/default/files/publication/downloads/2021-Art-for-Lifes-Sake.pdf | Effects of arts access on students |
 
 
 # Method and medium 
