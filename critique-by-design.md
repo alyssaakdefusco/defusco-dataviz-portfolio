@@ -18,19 +18,6 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
 
 Results: 
 
@@ -49,6 +36,20 @@ _Don't identify or share personally identifiable information (PII) about the peo
 Synthesis: 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+
+Main takeaways:
+The information presented is straightforward, but more of a story could be told here.
+Be careful about use of color and what it signifies or doesn't signify. 
+Are there groups of variables that make sense to categorize together?
+Focus in on the pie chart as the chart type, it makes the most sense with the data set.
+Don't compare benefits vs struggles, focus on the positive. Telling a pro-work from home story.
+Most frequently cited benefits instead of ranked benefits could get you out of the pie chart if necessary.
+
+How I'll implement them:
+I will group the variables in categories that make sense such as "location" and "flexibility" so that it's immediately clear the overarching themes of what people want from working remotely.
+I will make a simpler color palette that associates the different variables with the larger categories they fit into.
+I will stick with the pie chart and make it as clear as possible. 
+
 
 ## Step five: build the solution
 
