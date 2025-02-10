@@ -37,11 +37,14 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 |
+| Question | Interview 1 | Interview 2 | Interview 3 | 
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Does this make sense?         |  Yes, easy to understand           |  Pretty straightforward           |  Yeah               |
+| Describe what this is telling you         | Ranking the information by # of people who cited as a favorable quality            |   A lot of workers want flexibility          |      Why people want to do remote work         |
+| Is anything confusing?         |  Ranking percentage - more context           |  No           | Different shades of green and blue, do they signify anything?          |
+| Who do you think is the intended audience? |  Managmenet/employees trying to persuage managers            |   Employers               |   Employers           |
+| What would you do differently?  |   Flexible location, schedule, work from home are the same and can be grouped               |   Make categories of variables by color             |  Different color palette                |
+| Which of the 3 do you like the best? | Pie chart | Pie chart | Pie chart |
 
 Synthesis: 
 
