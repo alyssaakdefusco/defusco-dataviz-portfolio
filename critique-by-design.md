@@ -45,17 +45,17 @@ Synthesis:
 
 
 Main takeaways:<br/>
-The information presented is straightforward, but more of a story could be told here.
-Be careful about use of color and what it signifies or doesn't signify. 
-Are there groups of variables that make sense to categorize together?
-Focus in on the pie chart as the chart type, it makes the most sense with the data set.
-Don't compare benefits vs struggles, focus on the positive. Telling a pro-work from home story.
-Most frequently cited benefits instead of ranked benefits could get you out of the pie chart if necessary.
+The information presented is straightforward, but more of a story could be told here.<br/>
+Be careful about use of color and what it signifies or doesn't signify.<br/>
+Are there groups of variables that make sense to categorize together?<br/>
+Focus in on the pie chart as the chart type, it makes the most sense with the data set.<br/>
+Don't compare benefits vs struggles, focus on the positive. Telling a pro-work from home story.<br/>
+Most frequently cited benefits instead of ranked benefits could get you out of the pie chart if necessary.<br/>
 
-How I'll implement them:
-I will group the variables in categories that make sense such as "location" and "flexibility" so that it's immediately clear the overarching themes of what people want from working remotely.
-I will make a simpler color palette that associates the different variables with the larger categories they fit into.
-I will consider sticking with the pie chart and make it as clear as possible. 
+How I'll implement them:<br/>
+I will group the variables in categories that make sense such as "location" and "flexibility" so that it's immediately clear the overarching themes of what people want from working remotely.<br/>
+I will make a simpler color palette that associates the different variables with the larger categories they fit into.<br/>
+I will consider sticking with the pie chart and make it as clear as possible.<br/> 
 
 
 ## Step five: build the solution
