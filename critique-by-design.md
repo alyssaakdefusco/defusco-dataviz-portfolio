@@ -81,7 +81,7 @@ This process was really helpful. Picking a simple data visualization that I actu
 ## References
 Andy Kriebel's [Watch Me Viz](https://www.youtube.com/watch?v=Pf-ADZqo6MM&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=146) redesign tutorial<br/>
 Visual Capitalist ["How People and Companies Feel About Working Remotely"](https://www.visualcapitalist.com/how-people-and-companies-feel-about-working-remotely/), 2020<br/>
-Buffer ["State of Remote Work 2020"](https://buffer.com/state-of-remote-work/2020)
+Buffer ["State of Remote Work 2020"](https://buffer.com/state-of-remote-work/2020), 2020<br/>
 Tableau [Visual Vocabulary](https://www.tableau.com/solutions/gallery/visual-vocabulary)<br/>
 Berinato, Scott. 2016. Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Boston, Massachusetts: Harvard Business Review Press.
 
