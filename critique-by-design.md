@@ -9,6 +9,12 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
+![](Original.png "Original Data Viz")
+
+Original Data Viz from [Visual Capitalist](https://www.visualcapitalist.com/how-people-and-companies-feel-about-working-remotely/), data set from Buffer: ["State of Remote Work 2020"](https://buffer.com/state-of-remote-work/2020)
+
+I chose this data visualization because I actually kind of liked it. I'm drawn to the color palette and the illustration was cute. But the more I looked at it, the more I was confused by what exactly it was trying to represent and who the target audience was. Were the variables in the stacked bar ranked by each employee highest to lowest? Was the original survey pre-populated with these options or were the unanimously chosen? It was a simple enough concept to convey, but I thought I could make it even more apparent and simple.
+
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 ## Step two: the critique
