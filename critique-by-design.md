@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://alyssaakdefusco.github.io/defusco-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique By Design: Benefits of Remote Work
 
@@ -71,9 +71,9 @@ I ended up deciding to not even include the percentage numbers on the columns th
 This process was really helpful. Picking a simple data visualization that I actually liked was a bit of a challenge, but the critique process helped me understand where it was falling short. Despite not using a pie chart, the rest of my classmates' advice came through in the final design. Simplify the colors and make them mean something. Categorize the variables to tell a story. Then, going through the Makeover Monday tutorial really tied it all together as the designer's choice aligned with my process up to that point. 
 
 ## References
-Andy Kriebel's [Watch Me Viz](https://www.youtube.com/watch?v=Pf-ADZqo6MM&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=146) redesign tutorial
-Visual Capitalist ["How People and Companies Feel About Working Remotely"](https://www.visualcapitalist.com/how-people-and-companies-feel-about-working-remotely/), 2020
+Andy Kriebel's [Watch Me Viz](https://www.youtube.com/watch?v=Pf-ADZqo6MM&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=146) redesign tutorial<br/>
+Visual Capitalist ["How People and Companies Feel About Working Remotely"](https://www.visualcapitalist.com/how-people-and-companies-feel-about-working-remotely/), 2020<br/>
 Buffer ["State of Remote Work 2020"](https://buffer.com/state-of-remote-work/2020)
-Tableau [Visual Vocabulary](https://www.tableau.com/solutions/gallery/visual-vocabulary)
+Tableau [Visual Vocabulary](https://www.tableau.com/solutions/gallery/visual-vocabulary)<br/>
 Berinato, Scott. 2016. Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Boston, Massachusetts: Harvard Business Review Press.
 
