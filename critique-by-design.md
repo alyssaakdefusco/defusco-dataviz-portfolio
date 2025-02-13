@@ -44,7 +44,7 @@ Results:
 Synthesis: 
 
 
-Main takeaways:
+Main takeaways:<br/>
 The information presented is straightforward, but more of a story could be told here.
 Be careful about use of color and what it signifies or doesn't signify. 
 Are there groups of variables that make sense to categorize together?
