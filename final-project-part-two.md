@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> [Storygraph Draft](https://carnegiemellon.shorthandstories.com/artsfunding/index.html)
+> [Shorthand Draft](https://carnegiemellon.shorthandstories.com/artsfunding/index.html)
 
 # User research 
 
@@ -80,6 +80,6 @@ Question 6: Were the visualizations helpful or harmful? How so?
 >In general I have some cleaning up to do of the visualizations and adding more compelling visual elements to enhance the story being told, but I'm happy with the way the narrative is taking shape so far!
 >
 ## References
-_List any references you used here._
+I haven't added my full bibliography to Shorthand yet but will have that in Part III. For this section of the project my only specific references were the peer interviews I conducted. 
 
 
