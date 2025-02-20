@@ -80,6 +80,8 @@ Question 6: Were the visualizations helpful or harmful? How so?
 >In general I have some cleaning up to do of the visualizations and adding more compelling visual elements to enhance the story being told, but I'm happy with the way the narrative is taking shape so far!
 >
 ## References
+Berinato, Scott. 2016. Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Boston, Massachusetts: Harvard Business Review Press.
+
 I haven't added my full bibliography to Shorthand yet but will have that in Part III. For this section of the project my only specific references were the peer interviews I conducted. 
 
 
