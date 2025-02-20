@@ -15,25 +15,37 @@ I’m interested to see if the user finds a logical connection between the eleme
 
 
 ## Interview findings
-> Following the narrative: 
+
+**Following the narrative:** 
 
 Question 1: Do you have a clear picture of the story was being told?
+
 Question 2: Do you understand how funding plays a role in this?
+
 Question 3: Could you implement the call to action?
 
-Effectiveness:
+**Effectiveness:**
 
 Question 4: What parts did you find compelling?
+
 Question 5: What parts did you find unclear or confusing?
+
 Question 6: Were the visualizations helpful or harmful? How so?
 
-Interviewee 1 (non arts-involved peer):
-Yes. What I didn't get was the lack of money
-In a general way
-Yes
-The visualization about academic success and the arts
-The NEA section - the screenshotted graph
-They were all helpful except the last one - it was too busy and was trying to get two different things across.
+
+**Interviewee 1, non arts-involved peer:**
+
+| Question                      | Answer                                                |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Do you have a clear picture of the story that was being told? | Yes! |
+| Do you understand how funding plays a role?                                         |   In a general way                                                                              |
+|  Could you implement the call to action?                                        | Yes                                                                               |
+| What parts did you find compelling? | The visualization about academic success in the arts |
+| What parts did you find unclear or confusing? | Why there is a lack of funding, the NEA section |
+| Were the visualizaitons helpful or harmful? How so? | All helpful except the NEA graph, too many points being made |
+
+
+
 
 Interviewee 2 (MISM classmate):
 
