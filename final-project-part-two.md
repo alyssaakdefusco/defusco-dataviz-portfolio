@@ -1,68 +1,78 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+> https://carnegiemellon.shorthandstories.com/artsfunding/index.html
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+The target audience for my project can fall into a few categories: The average person who is civically minded/politically involved; the arts community including managers, teachers, artists, and art students; or representatives who vote on policy/funding. I only realistically will be able to conduct research with the first 2 categories of people, but luckily I have many people both in and out of the arts community that I can interview. 
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+I’m interested to see if the user finds a logical connection between the elements of my story and if they find it persuasive and/or effective.
 
 
-Text here!
+
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+> Following the narrative: 
 
-Text here!
+Question 1: Do you have a clear picture of the story was being told?
+Question 2: Do you understand how funding plays a role in this?
+Question 3: Could you implement the call to action?
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+Effectiveness:
 
+Question 4: What parts did you find compelling?
+Question 5: What parts did you find unclear or confusing?
+Question 6: Were the visualizations helpful or harmful? How so?
+
+Interviewee 1 (non arts-involved peer):
+Yes. What I didn't get was the lack of money
+In a general way
+Yes
+The visualization about academic success and the arts
+The NEA section - the screenshotted graph
+They were all helpful except the last one - it was too busy and was trying to get two different things across.
+
+Interviewee 2 (MISM classmate):
+
+Yes but more about how the funding works
+Not so much
+Yes, very straightforward
+The benefits of arts for kids was really interesting
+How funding works
+They were mostly helpful except for federal funding graph
+
+
+Interviewee 3 (MISM classmate):
+Yes
+Somewhat, could be extrapolated a bit more
+Yes very easily
+The visualizations were really interesting
+The section about federal vs state funding
+Helpful, but use more contrasting colors
+
+Interviewee 4 (Arts peer):
+Yes
+Yes
+Yes
+The decline in funding over the years
+None
+Helpful. It would be cool to see a contrast between the states with different outcomes
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| A clearer explanation is needed for the "how" of the funding piece | Rework the data viz and add more copy to give context. |
+| Use more contrasting colors in visualizations                                         |   Play with color palettes in charts to see what is most effective, fix the text that is not showing up in dark mode                                                                              |
+|  A bigger focus on the compelling elements like the benefits of arts ed is needed                                        |  I will find more data/ create more visualizations to show this                                                                               |
 
-> ...include any final thoughts you have here. 
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
+>In general I have some cleaning up to do of the visualizations and adding more compelling visual elements to enhance the story being told, but I'm happy with the way the narrative is taking shape so far!
+>
 ## References
 _List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
