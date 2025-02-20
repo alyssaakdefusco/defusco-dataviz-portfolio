@@ -44,34 +44,29 @@ Question 6: Were the visualizations helpful or harmful? How so?
 | What parts did you find unclear or confusing? | Why there is a lack of funding, the NEA section |
 | Were the visualizaitons helpful or harmful? How so? | All helpful except the NEA graph, too many points being made |
 
+**Interviewee 2, MISM Classmate:**
+
+| Question                      | Answer                                                |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Do you have a clear picture of the story that was being told? | Yes, but more about how funding works |
+| Do you understand how funding plays a role?                                         |   Not so much                                                                              |
+|  Could you implement the call to action?                                        | Yes, very straightfoward                                                                               |
+| What parts did you find compelling? | The benefits of arts for kids was really interesting |
+| What parts did you find unclear or confusing? | How funding works |
+| Were the visualizaitons helpful or harmful? How so? | Mostly helpful except the federal funding graph |
+
+**Interviewee 3, Arts Management Classmate:**
+
+| Question                      | Answer                                                |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Do you have a clear picture of the story that was being told? | Yes |
+| Do you understand how funding plays a role?                                         |   Somewhat, could be extrapolated more                                                                              |
+|  Could you implement the call to action?                                        | Yes easily                                                                              |
+| What parts did you find compelling? | The visualizations about declining arts funding over the years |
+| What parts did you find unclear or confusing? | Nothing really |
+| Were the visualizaitons helpful or harmful? How so? | They were helpful, it would be cool to dive into more specifics about the states and use more contrasting colors! |
 
 
-
-Interviewee 2 (MISM classmate):
-
-Yes but more about how the funding works
-Not so much
-Yes, very straightforward
-The benefits of arts for kids was really interesting
-How funding works
-They were mostly helpful except for federal funding graph
-
-
-Interviewee 3 (MISM classmate):
-Yes
-Somewhat, could be extrapolated a bit more
-Yes very easily
-The visualizations were really interesting
-The section about federal vs state funding
-Helpful, but use more contrasting colors
-
-Interviewee 4 (Arts peer):
-Yes
-Yes
-Yes
-The decline in funding over the years
-None
-Helpful. It would be cool to see a contrast between the states with different outcomes
 
 # Identified changes for Part III
 
