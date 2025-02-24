@@ -22,6 +22,8 @@ I used ChatGPT to pull a dataset from a chart I found with no access to the orig
 
 # Final thoughts
 
-This was a great way to put all the new skills, concepts, and tools we learned about in class into practice. Many frustrated hours wrestling with Tableau, DataWrapper, and even Shorthand were had but I'm excited about being able to take these tools into my future career. This process has truly awakened an excitement for telling stories with data (as on-the-nose as it sounds)! Especially working on my Systems Synthesis project currently, I have a much keener eye on the data we're using, why we're using it, and the effectiveness of how we visualize that. I think if I were more tech-savy, I could have done some cooler things with all the visualizations I included. I'm hoping to use this actual report as part of what I can present to future funders, advocates, voters, etc. Thanks for the fun and practical experience!
+This was a great way to put all the new skills, concepts, and tools we learned about in class into practice. Many frustrated hours wrestling with Tableau, DataWrapper, and even Shorthand were had but I'm excited about being able to take these tools into my future career. This process has truly awakened an excitement for telling stories with data (as on-the-nose as it sounds)! Especially working on my Systems Synthesis project currently, I have a much keener eye on the data we're using, why we're using it, and the effectiveness of how we visualize it. I think if I were more tech-savy, I could have done some cooler things with all the visualizations I included in this presentation. I'd love to spend more time learning the ins and outs of Tableau and become more comfortable with it because it seems to be the most customizable tool but it's also the least intuitive for me. 
+
+I'm hoping to use this actual report as part of what I can present to future funders, advocates, voters, etc. Thanks for the fun and practical experience!
 
 
